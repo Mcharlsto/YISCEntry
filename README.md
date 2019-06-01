@@ -7,3 +7,4 @@ PCB CAD files and Code. In EAGLE and Python.
 * [Contributing guideline](https://github.com/Mcharlsto/YISCEntry/blob/master/CONTRIBUTING.md)
 * [Code of Conduct](https://github.com/Mcharlsto/YISCEntry/blob/master/CODE_OF_CONDUCT.md)
 * [Readme](https://github.com/Mcharlsto/YISCEntry/blob/master/README.md)
+* [Wiki](https://github.com/Mcharlsto/YISCEntry/wiki)
