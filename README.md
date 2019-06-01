@@ -2,3 +2,5 @@
 Leeds Raspberry Jam YISC Entry
 
 PCB CAD files and Code. In EAGLE and Python.
+## Files:
+[https://github.com/Mcharlsto/YISCEntry/blob/master/LICENSE](Licence)
