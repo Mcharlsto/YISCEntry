@@ -8,4 +8,4 @@ PCB CAD files and Code. In EAGLE and Python. BOM is encrypted for privacy reason
 * [Code of Conduct](https://github.com/Mcharlsto/YISCEntry/blob/master/CODE_OF_CONDUCT.md)
 * [Readme](https://github.com/Mcharlsto/YISCEntry/blob/master/README.md)
 * [Wiki](https://github.com/Mcharlsto/YISCEntry/wiki)
-* [Bill Of Materials](https://github.com/Mcharlsto/YISCEntry/BillOfMaterials.xlsx)
+* [Bill Of Materials](https://github.com/Mcharlsto/YISCEntry/blob/master/BillOfMaterials.xlsx)
